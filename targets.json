@@ -1,0 +1,30 @@
+[
+  {
+    "niche": "dentistas",
+    "city": "Quito",
+    "country": "EC",
+    "lang": "es",
+    "processed": true
+  },
+  {
+    "niche": "clínicas veterinarias",
+    "city": "Guayaquil",
+    "country": "EC",
+    "lang": "es",
+    "processed": false
+  },
+  {
+    "niche": "plumbers",
+    "city": "Austin",
+    "country": "US",
+    "lang": "en",
+    "processed": false
+  },
+  {
+    "niche": "accountants",
+    "city": "Miami",
+    "country": "US",
+    "lang": "en",
+    "processed": false
+  }
+]

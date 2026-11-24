@@ -1,0 +1,26 @@
+# Core HTTP & HTML
+requests==2.32.3
+beautifulsoup4==4.12.3
+lxml==5.3.0
+
+# DNS validation
+dnspython==2.7.0
+
+# Database
+# sqlite3 is part of stdlib — no package needed
+
+# Email
+# smtplib, imaplib, email are stdlib — no package needed
+
+# LLM clients
+openai==1.59.0
+anthropic==0.42.0
+httpx==0.28.1   # used by openai/anthropic internally
+
+# Env management
+python-dotenv==1.0.1
+
+# Utilities
+tenacity==9.0.0        # retry with backoff
+schedule==1.2.2        # optional cron-style scheduling
+rich==13.9.4           # pretty console output for --dry-run
